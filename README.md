@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Bryan Pilco (@bryopilc) Engineering student in Telematics on ESPOL
+- 👀 I’m interested in Science and Technology, IoT, Cybersecurity, TI Solutions, APIs client-server and networks
+- 🌱 I’m currently learning cybersecurity essentials in CISCO Academic Online
+- 💞️ I’m looking to learn from projects about that mentioned 
